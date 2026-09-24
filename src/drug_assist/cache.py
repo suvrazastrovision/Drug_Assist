@@ -1,4 +1,4 @@
-﻿"""Reusable embedding cache keyed by text, model, and dimensions for repeating lookups."""
+﻿"""Reusable embedding cache keyed by text, model, and dimensions for repeating lookups to reduce API calls and costs"""
 import hashlib
 import json
 import math
