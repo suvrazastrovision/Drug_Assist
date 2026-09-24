@@ -40,7 +40,7 @@ tests/test_workflow.py      # offline workflow regression checks
 The notebooks explain each stage and keep analysis visible. Shared helpers contain
 repeated validation and database logic. They are imported from `src/` by the setup cell.
 
-## Retrieval notebook: original steps 01?11
+## Retrieval notebook
 
 Notebook 03 follows the learning sequence exactly:
 
@@ -58,8 +58,9 @@ Notebook 03 follows the learning sequence exactly:
 | 10 | Metadata filtering | Filtered results and count comparison |
 | 11 | Retrieval evaluation | Scores and percentages in the same table, percentage chart |
 
-Chroma replaces the original pgvector choice in step 06. Steps 12?14 (frameworks,
-RAG, and answer generation) are deferred. The optional review loop is inside step 11.
+Chroma replaces the original pgvector choice in step 06. Frameworks,
+RAG, and answer generation are deferred at this stage. The optional review loop is inside step 11. 
+
 Each numbered section explains its purpose, code, and how to interpret its output.
 
 The database stays at `%LOCALAPPDATA%\Drug_Assist\chroma`, outside OneDrive.
