@@ -2,7 +2,7 @@
 
 A local learning project for FDA approved drug-dataset (for mental health disorders) exploration and semantic retrieval.
 
-Note: This is my very first draft of project repo which is a WIP....
+Note: This is my very first draft of DevOps project repo which is a WIP....stay tuned!
 
 ## Notebook workflow
 
