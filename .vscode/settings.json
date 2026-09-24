@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "${env:LOCALAPPDATA}\\uv-envs\\Drug_Assist\\Scripts\\python.exe",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.terminal.activateEnvironment": false,
+    "terminal.integrated.env.windows": {
+        "UV_PROJECT_ENVIRONMENT": "${env:LOCALAPPDATA}\\uv-envs\\Drug_Assist",
+        "VIRTUAL_ENV": null,
+        "PYTHONPATH": null,
+        "PYTHONHOME": null,
+        "PYTHONNOUSERSITE": "1"
+    }
+}

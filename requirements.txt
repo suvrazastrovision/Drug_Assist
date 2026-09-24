@@ -1,0 +1,10 @@
+# Data exploration and cleaning
+pandas
+
+# Charts and statistical visualizations
+matplotlib
+seaborn
+
+# Jupyter notebooks and the VS Code Python notebook kernel
+jupyterlab
+ipykernel
