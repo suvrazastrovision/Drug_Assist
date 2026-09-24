@@ -1,6 +1,6 @@
 # Drug_Assist
 
-A local learning project for FDA approved drug-dataset exploration for mental health disorders and semantic retrieval.
+A local learning project for FDA approved drug-dataset (for mental health disorders) exploration and semantic retrieval.
 
 Note: This is my very first draft of project repo. This is a WIP....
 
